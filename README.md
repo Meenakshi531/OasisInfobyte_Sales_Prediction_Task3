@@ -1,5 +1,5 @@
-# Machine-Learning
-## Sales Prediction Model
+# Oasis Infobyte Task 3
+## Sales Prediction with Python
 
 ## Overview
 
@@ -37,9 +37,9 @@ We use Simple Linear Regression and Multiple Linear Regression models to analyze
 
 - Load the dataset
 
-- Handle missing values (if any)
+- Handle missing values
 
-- Perform exploratory data analysis (EDA)
+- Perform exploratory data analysis 
 
 - Visualize relationships between features and target variable
 
